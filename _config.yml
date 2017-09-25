@@ -9,3 +9,5 @@ github_username:  macrod68
 
 sass:
     style: compressed
+
+highlighter: rouge
