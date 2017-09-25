@@ -10,7 +10,7 @@ layout: page
   * how to google your problem
   * data types
   * variables
-    * null & default values
+      * null & default values
   * operators
   * equality
   * output
