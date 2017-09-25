@@ -2,17 +2,22 @@
 layout: page
 ---
 
-# tracks
 
-Lists the tracks we're planning
 
-## Problem solving - not a track
+<div class="row">
+  <div class="col s12 grid-example blue">
+  <span class="flow-text">Tracks</span>
+  </div>
+</div>
 
-  * Paper prototyping
-  * Breaking down your problem & planning
-  * Testing to make sure you're getting what you want
+<div class="row">
+  <div class="col s12 m4 grid-example">Basics</div>
+  <div class="col s12 m4 grid-example">Intermediate</div>
+  <div class="col s12 m4 grid-example">Advanced</div>
+</div>
 
-## basics
+<div class="row">
+  <div class="col s12 m4">
 
   * setup
   * Running
@@ -28,7 +33,9 @@ Lists the tracks we're planning
   * control flow
   * iteration
 
-## intermediate
+
+  </div>
+  <div class="col s12 m4">
 
   * methods & functions
   * arrays, dictionaries and collections
@@ -37,7 +44,9 @@ Lists the tracks we're planning
   * reading files
   * writing files
 
-## advanced
+  </div>
+
+  <div class="col s12 m4">
 
   * exception handling
   * classes & objects
@@ -45,6 +54,22 @@ Lists the tracks we're planning
   * polymorphism
   * anonymous functions
   * imports and libraries
+
+  </div>
+
+</div>
+
+
+# tracks
+
+Lists the tracks we're planning
+
+## Problem solving - not a track
+
+  * Paper prototyping
+  * Breaking down your problem & planning
+  * Testing to make sure you're getting what you want
+
 
 ## extension exercises
 
