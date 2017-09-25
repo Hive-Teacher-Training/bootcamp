@@ -2,12 +2,11 @@
 layout: page
 ---
 
-tracks
+# tracks
 
 
 ## basics
   * setup
-  *
   * how to google your problem
   * data types
   * variables
