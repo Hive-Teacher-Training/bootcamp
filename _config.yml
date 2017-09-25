@@ -11,3 +11,4 @@ sass:
     style: compressed
 
 highlighter: rouge
+header_pages: Home, Tracks
