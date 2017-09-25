@@ -33,6 +33,20 @@ title: "Tracks"
     <div class="card light-green">
       <div class="card-content white-text">
         <span class="card-title">
+          Data types and variables
+        </span>
+        <p>
+
+        </p>
+      </div>
+      <div class="card-action">
+        <a class="black-text" href="/basic/data-types.html">Data types and variables</a>
+      </div>
+    </div>
+
+    <div class="card light-green">
+      <div class="card-content white-text">
+        <span class="card-title">
           Input and output
         </span>
         <p>
@@ -44,19 +58,7 @@ title: "Tracks"
       </div>
     </div>
 
-    <div class="card light-green">
-      <div class="card-content white-text">
-        <span class="card-title">
-          Data types and variables
-        </span>
-        <p>
 
-        </p>
-      </div>
-      <div class="card-action">
-        <a class="black-text" href="/basic/data-types.html">Data types and variables</a>
-      </div>
-    </div>
 
   * setup
   * Running
