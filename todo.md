@@ -1,7 +1,7 @@
 - [] Add third challenge to control flow section
 - [] Rename control flow section cos it's just about if
 - [] take operators out of data types section?
-- [] add section on comparison
+- [] update tracks page with title for operators and comparison
 - [] add challenges for operators
 - [] collections and lists
 - [] dictionaries and sets
@@ -22,3 +22,4 @@
 - [x] get an anagram file
 - [x] write string calculator exercises
 - [x] add bit on converting numbers somewhere
+- [x] add section on comparison
