@@ -6,7 +6,7 @@ layout: post
 
 
 <p class="flow-text">
-
+To make a program with interesting results, we're almost always going to have to make some decisions, whether on direct input, derived data or information from another source, such as a database or web service.
 </p>
 
 
