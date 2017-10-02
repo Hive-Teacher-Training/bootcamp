@@ -15,7 +15,7 @@
 - [x] get an anagram file
 - [x] write anagrams exercise
 - [] write game of life exercises
-- [] write string calculator exercises
+- [x] write string calculator exercises
 - [] write roman numerals exercise
 - [] write unit conversion exercise
 - [] section on strings
