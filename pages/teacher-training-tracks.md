@@ -16,80 +16,57 @@ title: "Tracks"
 
     <div class="white-text center-align light-green darken-1"><h3>Basics</h3></div>
 
-    <div class="card light-green">
-      <div class="card-content white-text">
-        <span class="card-title"><a class="white-text" href="/basics/setup.html">Setup</a></span>
+    <a class="white-text" href="/basic/setup.html">
+    <div class="card-panel light-green">
+        <h4>Setup</h4>
         <p>Get set up for the bootcamp. Instructions for installing software required to get going</p>
       </div>
-      <div class="card-action">
-        <a class="black-text" href="/basic/setup.html">Setup</a>
-      </div>
-    </div>
+    </a>
 
-    <div class="card light-green">
-      <div class="card-content white-text">
-        <span class="card-title">
-          Data types and variables
-        </span>
-        <p>
-
-        </p>
+    <a class="white-text" href="/basic/data-types.html">
+    <div class="card-panel light-green">
+        <h4>Data types and variables</h4>
+        <p></p>
       </div>
-      <div class="card-action">
-        <a class="black-text" href="/basic/data-types.html">Data types and variables</a>
-      </div>
-    </div>
+    </a>
 
-    <div class="card light-green">
-      <div class="card-content white-text">
-        <span class="card-title">
-          Input and output
-        </span>
+    <a class="white-text" href="/basic/output.html">
+    <div class="card-panel light-green">
+        <h4>Input and output</h4>
         <p>
           Gather data from users and display information.
         </p>
       </div>
-      <div class="card-action">
-        <a class="black-text" href="/basic/output.html">Input and output</a>
-      </div>
-    </div>
+    </a>
 
-* Operators and equality
 
-    <div class="card light-green">
-      <div class="card-content white-text">
-        <span class="card-title">
-          Controlling program flow
-        </span>
+    <a class="white-text" href="/basic/operators-and-equality.html">
+    <div class="card-panel light-green">
+        <h4>Operators and equality</h4>
         <p>
-          Decision time.
+          Transform, combine and compare values and variables.
         </p>
       </div>
-      <div class="card-action">
-        <a class="black-text" href="/basic/control-flow.html">Control flow</a>
-      </div>
-    </div>
-
-    <div class="card light-green">
-      <div class="card-content white-text">
-        <span class="card-title">
-          Lists, Iteration and looping
-        </span>
-        <p>
-
-        </p>
-      </div>
-      <div class="card-action">
-        <a class="black-text" href="/basic/lists-and-iteration.html">Control flow</a>
-      </div>
-    </div>
-
-  * setup
-  * Running
-  * how to google your problem & python online documentation
+    </a>
 
 
-  * iteration
+<a class="white-text" href="/basic/control-flow.html">
+<div class="card-panel light-green">
+    <h4>Control flow</h4>
+    <p>
+      Decision time
+    </p>
+  </div>
+</a>
+
+<a class="white-text" href="/basic/control-flow.html">
+<div class="card-panel light-green">
+    <h4>Lists, iteration and looping</h4>
+    <p>
+
+    </p>
+  </div>
+</a>
 
 
   </div>
@@ -198,12 +175,18 @@ title: "Tracks"
 </div>
 
 <div class="row">
-  <div class="col s12 grid-example blue darken-2">
-    Extension exercises
+  <div class="col s12">
+  <div class="white-text center-align blue darken-2"><h3>Extension exercises</h3></div>
+    <a href="/challenges/anagrams.html"><div class="card-panel white-text blue">Anagrams</div></a>
+    <a href="/challenges/roman_numerals.html"><div class="card-panel white-text blue">Roman Numerals</div></a>
+    <a href="/challenges/string_calculator.html"><div class="card-panel white-text blue">String Calculator</div></a>
+    <a href="/challenges/conversion.html"><div class="card-panel white-text blue">Unit Conversions</div></a>
+    <a href="/challenges/game_of_life.html"><div class="card-panel white-text blue">Game of Life</div></a>
+
   </div>
-  <p>
-    * handful of katas and exercises to take a little longer
-    </p>
+
+
+
 </div>
 
 <div class="row">
