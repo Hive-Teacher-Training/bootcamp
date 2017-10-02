@@ -3,7 +3,7 @@
 - [] take operators out of data types section?
 - [] update tracks page with title for operators and comparison
 - [] add challenges for operators
-- [] collections and lists
+- [] tuples and lists
 - [] dictionaries and sets
 - [] comparing sets and dictionaries
 - [] checking sets and dictionaries for a value
