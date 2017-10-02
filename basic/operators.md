@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Operators
+# Operators and comparison
 
 
 <p class="flow-text">
@@ -48,8 +48,31 @@ four = 24 / 6
 # and remainders calculated
 six = 14 % 8
 
-# where necessary, floating point numbers are cast to floating point numbers
-pi = 22/7
+# Comparing values
+
+# Numbers can be compared to check if they are equal to, greater than and less than each other
+# The result of a comparison is a boolean value, True or False
+
+24 > 12           # True
+
+12.7 > 12.7000001 # False
+
+12.7 == 12.7      # True
+
+5 <= 5            # True
+
+16 >= 15          # True
+
+# strings can also be compared
+"This" == "That"   # False
+
+this = "This"
+
+this == this      # True
+
+
+
+
 
 ```
 

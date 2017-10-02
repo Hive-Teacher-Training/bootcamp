@@ -1,5 +1,3 @@
-
-
 - [] Add third challenge to control flow section
 - [] Rename control flow section cos it's just about if
 - [] take operators out of data types section?
@@ -12,7 +10,7 @@
 - [] scope
 - [] file input/output
   - read line by line
-- [] write game of life exercises
+- [] write game of life exercise
 - [] write unit conversion exercise
 - [] section on strings
   - [] length
