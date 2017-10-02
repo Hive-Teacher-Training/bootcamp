@@ -4,7 +4,7 @@ layout: page
 
 # Input and Output
 
-<p class="flow-text">
+<p>
 
 Input and output in some form are the basis of much software. Without user input, we cannot do anything useful for them. Without output, we cannot provide them with the answers we have calculated. This exercise and it's challenges cover the basics of printing data to the console and collecting input from our users at the command prompt.
 

@@ -12,13 +12,9 @@ title: "Tracks"
 </div>
 
 <div class="row">
-  <div class="col s12 m4 grid-example light-green darken-1">Basics</div>
-  <div class="col s12 m4 grid-example teal darken-1">Intermediate</div>
-  <div class="col s12 m4 deep-purple darken-1 grid-example">Advanced</div>
-</div>
-
-<div class="row">
   <div class="col s12 m4">
+
+    <div class="white-text center-align light-green darken-1"><h3>Basics</h3></div>
 
     <div class="card light-green">
       <div class="card-content white-text">
@@ -58,25 +54,48 @@ title: "Tracks"
       </div>
     </div>
 
+* Operators and equality
 
+    <div class="card light-green">
+      <div class="card-content white-text">
+        <span class="card-title">
+          Controlling program flow
+        </span>
+        <p>
+          Decision time.
+        </p>
+      </div>
+      <div class="card-action">
+        <a class="black-text" href="/basic/control-flow.html">Control flow</a>
+      </div>
+    </div>
+
+    <div class="card light-green">
+      <div class="card-content white-text">
+        <span class="card-title">
+          Lists, Iteration and looping
+        </span>
+        <p>
+
+        </p>
+      </div>
+      <div class="card-action">
+        <a class="black-text" href="/basic/lists-and-iteration.html">Control flow</a>
+      </div>
+    </div>
 
   * setup
   * Running
   * how to google your problem & python online documentation
-  * data types and variables
-      * null & default values
-  * operators
-  * equality
-  * output
-    - print & print formatting
-  * input
-    - get user input
-  * control flow
+
+
   * iteration
 
 
   </div>
   <div class="col s12 m4">
+
+  <div class="white-text center-align teal darken-1"><h3>Intermediate</h3></div>
 
   <div class="card teal">
     <div class="card-content white-text">
@@ -88,7 +107,7 @@ title: "Tracks"
       </p>
     </div>
     <div class="card-action">
-      <a href="/intermediate/methods.html">Methods and functions</a>
+      <a href="/intermediate/functions.html">Methods and functions</a>
     </div>
   </div>
   * methods & functions
@@ -101,6 +120,8 @@ title: "Tracks"
   </div>
 
   <div class="col s12 m4">
+
+  <div class="white-text center-align deep-purple darken-1"><h3>Advanced</h3></div>
 
   <div class="card deep-purple">
     <div class="card-content white-text">

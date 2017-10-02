@@ -11,4 +11,5 @@ sass:
     style: compressed
 
 highlighter: rouge
-header_pages: Home, Tracks
+header_pages:
+  - pages/teacher-training-tracks.md
