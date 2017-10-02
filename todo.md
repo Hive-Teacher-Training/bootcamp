@@ -1,0 +1,24 @@
+
+
+- [] Add third challenge to control flow section
+- [] Rename control flow section cos it's just about if
+- [] take operators out of data types section?
+- [] add section on comparison
+- [x] add bit on converting numbers somewhere
+- [] add challenges for operators
+- [] collections and lists
+- [] dictionaries and sets
+- [] comparing sets and dictionaries
+- [] checking sets and dictionaries for a value
+- [] scope
+- [] file input/output
+- [x] get an anagram file
+- [x] write anagrams exercise
+- [] write game of life exercises
+- [] write string calculator exercises
+- [] write roman numerals exercise
+- [] write unit conversion exercise
+- [] section on strings
+  - [] length
+  - [] substrings
+  - [] contains
