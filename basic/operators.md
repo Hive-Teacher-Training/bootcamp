@@ -65,14 +65,16 @@ six = 14 % 8
 
 # strings can also be compared
 "This" == "That"   # False
-
-this = "This"
-
-this == this      # True
+"This" != "That"   # True
 
 
+# operators can be combined
 
+# both must be true
+3 > 2 and this == that # False
 
+# one must be true
+3 > 2 or this == that  # True
 
 ```
 
