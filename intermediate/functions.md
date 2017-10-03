@@ -26,6 +26,14 @@ def print_user_details( name, age, location):
 def say_hello(name = "Anonymous Coward"):
   print("Hello, {}".format(name))
 
+# functions can return values
+def add_numbers(first, second):
+  return first + second
+
+def compose_greeting(name="Anonymous Coward"):
+  greeting = "Hello, {}".format(name)
+  return greeting
+
 ```
 
 
