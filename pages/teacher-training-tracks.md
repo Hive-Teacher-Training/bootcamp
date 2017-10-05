@@ -1,20 +1,19 @@
 ---
 layout: page
-title: "Tracks"
 ---
 
 
 
-<div class="row">
+<!-- <div class="row">
   <div class="col s12 grid-example blue darken-2">
     Tracks
   </div>
-</div>
+</div> -->
 
 <div class="row">
-  <div class="col s12 m4">
+  <div class="col s12 m12">
 
-    <div class="white-text center-align light-green darken-1"><h3>Basics</h3></div>
+    <div class="white-text center-align light-green darken-1"><h3>Topics</h3></div>
 
     <!-- a class="white-text" href="/basic/setup.html">
     <div class="card-panel light-green">
@@ -68,52 +67,53 @@ title: "Tracks"
   </div>
 </a>
 
+<a class="white-text" href="/intermediate/functions.html">
+<div class="card-panel light-green">
+    <p class="card-title">Methods and functions</p>
+    <p></p>
+  </div>
+</a>
 
   </div>
-  <div class="col s12 m4">
+  <!-- <div class="col s12 m4">
 
   <div class="white-text center-align teal darken-1"><h3>Intermediate</h3></div>
+ -->
 
-  <a class="white-text" href="/intermediate/functions.html">
-  <div class="card-panel teal">
-      <p class="card-title">Methods and functions</p>
-      <p></p>
-    </div>
-  </a>
 
-  <a class="white-text" href="/intermediate/scope.html">
+  <!-- <a class="white-text" href="/intermediate/scope.html">
   <div class="card-panel teal">
       <p class="card-title">Scope</p>
       <p></p>
     </div>
-  </a>
+  </a> -->
 
-  <a class="white-text" href="/intermediate/dictionaries.html">
+  <!-- <a class="white-text" href="/intermediate/dictionaries.html">
   <div class="card-panel teal">
       <p class="card-title">Dictionaries</p>
       <p></p>
     </div>
-  </a>
+  </a> -->
 
-  <a class="white-text" href="/intermediate/file-io.html">
+  <!-- <a class="white-text" href="/intermediate/file-io.html">
   <div class="card-panel teal">
       <p class="card-title">Working with files</p>
       <p></p>
     </div>
-  </a>
+  </a> -->
 
-  <a class="white-text" href="/intermediate/objects.html">
+  <!-- <a class="white-text" href="/intermediate/objects.html">
   <div class="card-panel teal">
       <p class="card-title">Objects</p>
       <p></p>
     </div>
-  </a>
+  </a> -->
 
-  </div>
+  <!-- </div> -->
 
-  <div class="col s12 m4">
+  <!--div class="col s12 m4"-->
 
-  <div class="white-text center-align deep-purple darken-1"><h3>Advanced</h3></div>
+  <!-- div class="white-text center-align deep-purple darken-1"><h3>Advanced</h3></div>
 
   <div class="card deep-purple">
     <div class="card-content white-text">
@@ -173,8 +173,9 @@ title: "Tracks"
   * program structure
   * anonymous functions
   * imports and libraries
+-->
 
-  </div>
+  <!-- </div> -->
 
 </div>
 
@@ -191,7 +192,7 @@ title: "Tracks"
 
 <div class="row">
   <div class="col s12">
-  <div class="white-text center-align blue darken-2"><h3>Extension exercises</h3></div>
+  <div class="white-text center-align blue darken-2"><h3>Exercises</h3></div>
     <a href="/challenges/anagrams.html"><div class="card-panel white-text blue">Anagrams</div></a>
     <a href="/challenges/roman_numerals.html"><div class="card-panel white-text blue">Roman Numerals</div></a>
     <a href="/challenges/string_calculator.html"><div class="card-panel white-text blue">String Calculator</div></a>
