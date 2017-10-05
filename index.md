@@ -13,21 +13,21 @@ layout: page
 
     <div class="white-text center-align light-green darken-1"><h3>Topics</h3></div>
 
-    <!-- a class="white-text" href="/basic/setup.html">
+    <!-- a class="white-text" href="/bootcamp/basic/setup.html">
     <div class="card-panel light-green">
         <p class="card-title">Setup</p>
         <p>Get set up for the bootcamp. Instructions for installing software required to get going</p>
       </div>
     </a -->
 
-    <a class="white-text" href="/basic/data-types.html">
+    <a class="white-text" href="/bootcamp/basic/data-types.html">
     <div class="card-panel light-green">
         <p class="card-title">Data types and variables</p>
         <p></p>
       </div>
     </a>
 
-    <a class="white-text" href="/basic/output.html">
+    <a class="white-text" href="/bootcamp/basic/output.html">
     <div class="card-panel light-green">
         <p class="card-title">Input and output</p>
         <p>
@@ -37,7 +37,7 @@ layout: page
     </a>
 
 
-    <a class="white-text" href="/basic/operators-and-equality.html">
+    <a class="white-text" href="/bootcamp/basic/operators-and-equality.html">
     <div class="card-panel light-green">
         <p class="card-title">Operators and equality</p>
         <p>
@@ -47,7 +47,7 @@ layout: page
     </a>
 
 
-<a class="white-text" href="/basic/control-flow.html">
+<a class="white-text" href="/bootcamp/basic/control-flow.html">
 <div class="card-panel light-green">
     <p class="card-title">Conditional logic</p>
     <p>
@@ -56,7 +56,7 @@ layout: page
   </div>
 </a>
 
-<a class="white-text" href="/basic/control-flow.html">
+<a class="white-text" href="/bootcamp/basic/control-flow.html">
 <div class="card-panel light-green">
     <p class="card-title">Lists, iteration and looping</p>
     <p>
@@ -65,7 +65,7 @@ layout: page
   </div>
 </a>
 
-<a class="white-text" href="/intermediate/functions.html">
+<a class="white-text" href="/bootcamp/intermediate/functions.html">
 <div class="card-panel light-green">
     <p class="card-title">Methods and functions</p>
     <p></p>
@@ -191,11 +191,11 @@ layout: page
 <div class="row">
   <div class="col s12">
   <div class="white-text center-align blue darken-2"><h3>Exercises</h3></div>
-    <a href="/challenges/anagrams.html"><div class="card-panel white-text blue">Anagrams</div></a>
+    <a href="/bootcamp/challenges/anagrams.html"><div class="card-panel white-text blue">Anagrams</div></a>
     <a href="/challenges/roman_numerals.html"><div class="card-panel white-text blue">Roman Numerals</div></a>
-    <a href="/challenges/string_calculator.html"><div class="card-panel white-text blue">String Calculator</div></a>
-    <a href="/challenges/conversion.html"><div class="card-panel white-text blue">Unit Conversions</div></a>
-    <a href="/challenges/game_of_life.html"><div class="card-panel white-text blue">Game of Life</div></a>
+    <a href="/bootcamp/challenges/string_calculator.html"><div class="card-panel white-text blue">String Calculator</div></a>
+    <a href="/bootcamp/challenges/conversion.html"><div class="card-panel white-text blue">Unit Conversions</div></a>
+    <a href="/bootcamp/challenges/game_of_life.html"><div class="card-panel white-text blue">Game of Life</div></a>
 
   </div>
 
