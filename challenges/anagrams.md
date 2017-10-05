@@ -11,6 +11,7 @@ to find anagrams of words entered by a user.
 
 </p>
 
+e.g.
 ```
 
 james-r@darkstar$ python3 anagrammer

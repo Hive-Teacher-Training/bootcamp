@@ -16,23 +16,23 @@ title: "Tracks"
 
     <div class="white-text center-align light-green darken-1"><h3>Basics</h3></div>
 
-    <a class="white-text" href="/basic/setup.html">
+    <!-- a class="white-text" href="/basic/setup.html">
     <div class="card-panel light-green">
-        <h4>Setup</h4>
+        <p class="card-title">Setup</p>
         <p>Get set up for the bootcamp. Instructions for installing software required to get going</p>
       </div>
-    </a>
+    </a -->
 
     <a class="white-text" href="/basic/data-types.html">
     <div class="card-panel light-green">
-        <h4>Data types and variables</h4>
+        <p class="card-title">Data types and variables</p>
         <p></p>
       </div>
     </a>
 
     <a class="white-text" href="/basic/output.html">
     <div class="card-panel light-green">
-        <h4>Input and output</h4>
+        <p class="card-title">Input and output</p>
         <p>
           Gather data from users and display information.
         </p>
@@ -42,7 +42,7 @@ title: "Tracks"
 
     <a class="white-text" href="/basic/operators-and-equality.html">
     <div class="card-panel light-green">
-        <h4>Operators and equality</h4>
+        <p class="card-title">Operators and equality</p>
         <p>
           Transform, combine and compare values and variables.
         </p>
@@ -52,7 +52,7 @@ title: "Tracks"
 
 <a class="white-text" href="/basic/control-flow.html">
 <div class="card-panel light-green">
-    <h4>Control flow</h4>
+    <p class="card-title">Conditional logic</p>
     <p>
       Decision time
     </p>
@@ -61,9 +61,9 @@ title: "Tracks"
 
 <a class="white-text" href="/basic/control-flow.html">
 <div class="card-panel light-green">
-    <h4>Lists, iteration and looping</h4>
+    <p class="card-title">Lists, iteration and looping</p>
     <p>
-
+      Take input. Calculate value. Lather, rinse and repeat.
     </p>
   </div>
 </a>
@@ -74,25 +74,40 @@ title: "Tracks"
 
   <div class="white-text center-align teal darken-1"><h3>Intermediate</h3></div>
 
-  <div class="card teal">
-    <div class="card-content white-text">
-      <span class="card-title">
-        Methods and functions
-      </span>
-      <p>
-      Call methods! Pass parameters! Encapsulate computation!
-      </p>
+  <a class="white-text" href="/intermediate/functions.html">
+  <div class="card-panel teal">
+      <p class="card-title">Methods and functions</p>
+      <p></p>
     </div>
-    <div class="card-action">
-      <a href="/intermediate/functions.html">Methods and functions</a>
-    </div>
-  </div>
-  * methods & functions
-  * arrays, dictionaries and collections
+  </a>
 
-  * scope
-  * reading files
-  * writing files
+  <a class="white-text" href="/intermediate/scope.html">
+  <div class="card-panel teal">
+      <p class="card-title">Scope</p>
+      <p></p>
+    </div>
+  </a>
+
+  <a class="white-text" href="/intermediate/dictionaries.html">
+  <div class="card-panel teal">
+      <p class="card-title">Dictionaries</p>
+      <p></p>
+    </div>
+  </a>
+
+  <a class="white-text" href="/intermediate/file-io.html">
+  <div class="card-panel teal">
+      <p class="card-title">Working with files</p>
+      <p></p>
+    </div>
+  </a>
+
+  <a class="white-text" href="/intermediate/objects.html">
+  <div class="card-panel teal">
+      <p class="card-title">Objects</p>
+      <p></p>
+    </div>
+  </a>
 
   </div>
 
@@ -163,7 +178,7 @@ title: "Tracks"
 
 </div>
 
-<div class="row">
+<!-- div class="row">
   <div class="col s12 grid-example blue darken-2">
     Problem solving
   </div>
@@ -172,7 +187,7 @@ title: "Tracks"
     * Breaking down your problem & planning
     * Testing to make sure you're getting what you want
   </p>
-</div>
+</div-->
 
 <div class="row">
   <div class="col s12">
@@ -189,9 +204,9 @@ title: "Tracks"
 
 </div>
 
-<div class="row">
+<!-- div class="row">
   <div class="col s12 grid-example blue darken-2">
     Facilitator's reference
   </div>
   <p>Anything to help the facilitators do stuff</p>
-</div>
+</div -->

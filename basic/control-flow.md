@@ -2,7 +2,7 @@
 layout: post
 ---
 
-# Controlling program flow
+# Conditional logic
 
 
 <p class="flow-text">
