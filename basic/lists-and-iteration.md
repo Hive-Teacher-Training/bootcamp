@@ -43,6 +43,9 @@ fruits.remove('kiwi')
 ```
 
 ## Challenges
+<div class="card-panel flow-text" markdown="1">
+<p class="card-title">Challenge One</p>
+
 
 The Karvonen heart rate formula lets an athlete determine what heart rate they
 should be achieving for a given intensity of effort as follows:
@@ -73,6 +76,11 @@ Effort  Heart rate
 
 ```
 
+</div>
+<div class="card-panel flow-text" markdown="1">
+<p class="card-title">Challenge Two</p>
+
+
 Create a program to prompt the user to guess a number between 1 and 100
 
 - Prompt the user for a number
@@ -90,6 +98,13 @@ You got it!
 
 ```
 
+</div>
+
+<div class="card-panel flow-text" markdown="1">
+<p class="card-title">Challenge Three</p>
+
+
+
 Compare the values in a shopping list with the items available in store. Tell the user which items
 are in stock, and which aren't.
 
@@ -100,3 +115,5 @@ The store has flour, milk and sugar in stock
 The store doesn't have any eggs
 
 ```
+
+</div>
