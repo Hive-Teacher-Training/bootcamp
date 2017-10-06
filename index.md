@@ -56,7 +56,7 @@ layout: page
   </div>
 </a>
 
-<a class="white-text" href="/bootcamp/basic/control-flow.html">
+<a class="white-text" href="/bootcamp/basic/lists-and-iteration.html">
 <div class="card-panel light-green">
     <p class="card-title">Lists, iteration and looping</p>
     <p>
