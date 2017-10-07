@@ -192,7 +192,7 @@ layout: page
   <div class="col s12">
   <div class="white-text center-align blue darken-2"><h3>Exercises</h3></div>
     <a href="/bootcamp/challenges/anagrams.html"><div class="card-panel white-text blue">Anagrams</div></a>
-    <a href="/challenges/roman_numerals.html"><div class="card-panel white-text blue">Roman Numerals</div></a>
+    <a href="/bootcamp/challenges/roman_numerals.html"><div class="card-panel white-text blue">Roman Numerals</div></a>
     <a href="/bootcamp/challenges/string_calculator.html"><div class="card-panel white-text blue">String Calculator</div></a>
     <!-- <a href="/bootcamp/challenges/conversion.html"><div class="card-panel white-text blue">Unit Conversions</div></a> -->
     <a href="/bootcamp/challenges/game_of_life.html"><div class="card-panel white-text blue">Game of Life</div></a>
