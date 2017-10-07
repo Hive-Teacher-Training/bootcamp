@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Anagrams challenge
+# String calculator challenge
 
 <p class="flow-text">
 

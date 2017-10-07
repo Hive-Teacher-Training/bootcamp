@@ -6,7 +6,7 @@ layout: page
 
 <p class="flow-text">
 
-Use this <a href="/challenges/wordlist.txt">file of common words</a> to write a program
+Use this <a href="/bootcamp/challenges/wordlist.txt">file of common words</a> to write a program
 to find anagrams of words entered by a user.
 
 </p>
